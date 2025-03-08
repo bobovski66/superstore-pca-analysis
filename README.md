@@ -41,19 +41,19 @@ These insights can inform **business strategy, pricing models, and inventory man
 ## 📸 Visualizations  
 
 ### PCA Analysis with Seaborn  
-![PCA Seaborn](Screenshot 2025-03-07 180037.png)
+![PCA Seaborn](Screenshot_2025-03-07_180037.png)
 
 ### Interactive PCA Scatterplot (Plotly)  
-![PCA Plotly](Screenshot 2025-03-07 180952.png)
+![PCA Plotly](Screenshot_2025-03-07_180952.png)
 
 ### Power BI Dashboard - Sales Segmentation via PCA  
-![Power BI Dashboard](Screenshot 2025-03-07 201218.png)
+![Power BI Dashboard](Screenshot_2025-03-07_201218.png)
 
 ### Power BI Dashboard - Profit Analysis  
-![Profit Analysis](Screenshot 2025-03-07 203555.png)
+![Profit Analysis](Screenshot_2025-03-07_203555.png)
 
 ### Power BI Dashboard - Regional Profit Insights  
-![Regional Profit](Screenshot 2025-03-07 225618.png)
+![Regional Profit](Screenshot_2025-03-07_225618.png)
 
 ---
 
